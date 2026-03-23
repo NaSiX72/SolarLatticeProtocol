@@ -1,0 +1,43 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "item": "create:veridium"
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "item": "create:crimsite"
+    }
+  ]
+}

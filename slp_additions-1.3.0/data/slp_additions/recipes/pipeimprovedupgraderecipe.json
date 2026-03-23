@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "create_new_age:overcharged_gold"
+    },
+    "b": {
+      "item": "pipez:basic_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:improved_upgrade",
+    "count": 1
+  }
+}

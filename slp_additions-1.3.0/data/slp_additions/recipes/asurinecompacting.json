@@ -1,0 +1,43 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "item": "create:crimsite"
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+    	"count": 8,
+      "item": "create:asurine"
+    }
+  ]
+}

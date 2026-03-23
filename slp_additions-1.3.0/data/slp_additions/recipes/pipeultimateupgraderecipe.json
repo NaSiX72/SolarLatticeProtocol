@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "create_new_age:overcharged_diamond"
+    },
+    "b": {
+      "item": "pipez:advanced_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:ultimate_upgrade",
+    "count": 1
+  }
+}

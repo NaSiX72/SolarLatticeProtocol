@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "create_new_age:overcharged_iron"
+    },
+    "b": {
+      "item": "createaddition:electrum_ingot"
+    }
+  },
+  "result": {
+    "item": "pipez:basic_upgrade",
+    "count": 1
+  }
+}

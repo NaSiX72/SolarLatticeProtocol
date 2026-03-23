@@ -1,0 +1,43 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "item": "create:asurine"
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+    	"count": 8,
+      "item": "create:ochrum"
+    }
+  ]
+}

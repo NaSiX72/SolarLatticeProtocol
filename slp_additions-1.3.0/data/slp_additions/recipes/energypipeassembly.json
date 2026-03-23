@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_new_age:overcharged_iron_wire"
+  },
+  "loops": 4,
+  "results": [
+    {
+    	"count": 32,
+      "item": "pipez:energy_pipe"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_new_age:overcharged_iron_wire"
+        },
+        {
+          "item": "createaddition:electrum_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_new_age:overcharged_iron_wire"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_new_age:overcharged_iron_wire"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_new_age:overcharged_iron_wire"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create_new_age:overcharged_iron_wire"
+  }
+}
